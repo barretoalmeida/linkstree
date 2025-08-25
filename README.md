@@ -1,7 +1,7 @@
 ![GitHub License](https://img.shields.io/github/license/barretoalmeida/linkstree?style=social)
 
 
-# Linkstree
+# Linktree
 Projetos linktree usando HTML e CSS
 
 
