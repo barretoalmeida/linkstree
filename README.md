@@ -18,3 +18,5 @@ Um minimalista que reproduz o estilo de Linktree usando apenas HTML e CSS. Ideal
 # Autor 
 
 Gabriely Barreto Almeida
+
+![](img/PrintTela.png)
