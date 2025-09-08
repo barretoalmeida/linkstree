@@ -12,7 +12,7 @@
 </p>
 
 # Hub de Links 
-Um minimalista que reproduz o estilo de Linktree usando apenas HTML e CSS. Ideal para portfólios, perfis pessoais e páginas de linhas rápidas, sem depender de JavaScript ou FrameWorks
+Um site minimalista que reproduz o estilo de Linktree usando apenas HTML e CSS. Ideal para portfólios, perfis pessoais e páginas de linhas rápidas, sem depender de JavaScript ou FrameWorks
 
 
 # Autor 
